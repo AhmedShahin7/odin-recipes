@@ -1,0 +1,1 @@
+this project will have me using everything I've learned about html so far which includes text, images, links, and lists.
